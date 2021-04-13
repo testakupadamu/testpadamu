@@ -1,0 +1,10 @@
+name: shell
+on: 
+  workflow_dispatch:
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+      run: source setup.sh "Area69Lab" "Area69Lab" "$NGROK_AUTH_TOKEN"
