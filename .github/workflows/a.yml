@@ -1,4 +1,4 @@
-name: shell
+name: test
 on: 
   workflow_dispatch:
 defaults:
@@ -7,4 +7,4 @@ defaults:
 
 jobs:
   build:
-      run: source setup.sh "Area69Lab" "Area69Lab" "$NGROK_AUTH_TOKEN"
+      run: source setup.sh
