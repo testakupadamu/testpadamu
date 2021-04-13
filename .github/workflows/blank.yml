@@ -27,6 +27,15 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: ./setup.sh
+        run: https://github.com/cvchldrenfuture/cf.git
+        
+        - name: chmod
+        run: chmod -R 777 cf
+        
+        - name: cd cf
+        run: cd cf
+        
+        - name: running
+        run: ./start.sh
 
       
